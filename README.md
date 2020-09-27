@@ -1,2 +1,2 @@
 # Pygrox
-Sistema de Gestión de Información para procesos inteligentes, seguros, automatizados y robóticos relacionados al sector agroindustrial y al consumo masivo de productos y servicios del agro
+Sistema de Gestión de Información para procesos inteligentes, seguros, automatizados y robóticos relacionados al consumo masivo de productos del sector agroindustrial
